@@ -1,0 +1,180 @@
+body{
+  margin: 0px!important;
+  padding: 0px!important;
+  font-family: 'Poppins', sans-serif;
+}
+
+.container-fluid{
+  margin: 0px!important;
+  padding: 0px!important;
+}
+
+.top-head{
+  background-color:#ec6b1f;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+.c-orange{
+  color:#ec6b1f!important;
+}
+.bg-orange{
+  background-color:#ec6b1f;
+}
+
+.bl-1{
+  border-left: 1px solid #e7e7e7;
+}
+
+.br-1{
+  border-right: 1px solid #e7e7e7;
+}
+
+.f-16{
+  font-size: 16px!important;
+}
+
+.f-18{
+  font-size: 18px!important;
+}
+
+.f-50{
+  font-size: 50px!important;
+}
+
+.main-logo{
+  width: 100%;
+  height: auto;
+}
+
+
+.logo-sec{
+  padding: 20px 20px;
+}
+
+.main-navbar .nav-link{
+  padding: 10px 30px!important;
+  border-left: 1px solid #e7e7e7;
+}
+
+.no-border{
+  border-left: 0px!important;
+}
+
+.active .nav-link{
+  color:#ec6b1f!important;
+}
+
+.slider-img{
+  width: 100%;
+  height: auto;
+}
+
+.about-home{
+  margin-top: 40px;
+  padding: 10px 30px;
+}
+
+.big-heading{
+  font-size: 2.5rem;
+  padding-bottom: 20px;
+}
+
+
+.about-home p{
+  font-size: 18px;
+  text-align: justify;
+  line-height: 32px;
+  font-weight: 400;
+}
+
+.counter-sec{
+  margin-top: 30px;
+    background-image: url("../images/slide1.png");
+     min-height: 480px;
+     /* Create the parallax scrolling effect */
+     background-attachment: fixed;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+    z-index: -1;
+}
+
+.counter-sec .container-fluid{
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.counter-sec .counter-div{
+  padding-top: 60px;
+  padding-bottom: 110px;
+  color: #fff;
+}
+
+.counter-sec h2{
+  font-size: 2.0rem;
+  padding: 40px 10px;
+}
+
+
+.counter-sec .count-text{
+  font-size: 20px;
+}
+
+.counter-sec .count{
+  font-size: 50px;
+}
+
+
+
+.content-section{
+  margin-top: 30px;
+  padding: 30px 10px;
+}
+
+.content-section img{
+  width: 100%;
+}
+
+.content-section .sub-heading{
+  font-size: 2.0rem;
+  text-align: center;
+  padding: 20px 10px;
+}
+
+.content-section ul{
+  margin-left: 10px;
+  padding-left: 10px;
+  list-style-type: none;
+}
+
+.content-section ul li:before {
+  content: '✓';
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 20px;
+  color: #ec6b1f;
+}
+
+.content-section ul li{
+  text-align: justify;
+  margin-right: 20px;
+  font-size: 16px;
+  line-height: 26px;
+
+}
+
+.product-section{
+  margin-top: 30px;
+  padding: 30px 10px;
+
+}
+
+.product-section h2{
+ font-size: 2.0rem;
+ text-align: center;
+ padding: 40px 10px;
+}
+
+.product-section .btn-product-link{
+  padding: 20px 10px;
+}
