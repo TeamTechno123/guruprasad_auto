@@ -38,8 +38,17 @@ body{
   font-size: 18px!important;
 }
 
+.f-20{
+  font-size: 20px!important;
+}
+
 .f-50{
   font-size: 50px!important;
+}
+
+
+.f-40{
+  font-size: 40px!important;
 }
 
 .main-logo{
@@ -177,4 +186,124 @@ body{
 
 .product-section .btn-product-link{
   padding: 20px 10px;
+}
+
+
+
+.footer{
+  padding-top:30px;
+}
+
+
+.footer .footer-icon .f-icon{
+  padding: 10px;
+  background-color: #ec6b1f!important;
+  color: #fff;
+}
+
+.footer  h5{
+  font-size: 1.5rem;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 8px;
+}
+
+.footer  .inner-section{
+  background-color: #04213A;
+  color: #fff;
+
+}
+
+.footer p{
+  margin-bottom: 0px;
+}
+
+#minus-top{
+  margin-top: -30px;
+}
+
+#bg-blue{
+
+  padding: 30px 0px!important;
+  background-color: #04213A;
+  color: #fff;
+
+}
+
+.footer h4{
+  font-size: 1.5rem;
+  padding-top: 30px;
+  padding-bottom: 20px
+}
+
+.bottom-end{
+  padding: 20px!important;
+  background-color: #031a2e;
+  color: #fff;
+}
+
+.default-page-heading{
+  margin-top: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: #000 url(../images/slide2.png);
+  height: 200px;
+}
+
+
+.default-page-heading h1{
+  font-size: 2.5rem!important;
+  padding-top: 30px;
+  color: #fff;
+}
+
+.default-page-containt{
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.fixed {
+    position: fixed;
+    top:0; left:0;
+    width: 100%;
+    background: #fff!important;
+    z-index: 9;
+  }
+
+
+
+
+/*************about page*********************/
+
+.about-page{
+  margin-top: 40px;
+  padding: 10px 30px;
+}
+
+.about-page p{
+  font-size: 18px;
+  text-align: justify;
+  line-height: 32px;
+  font-weight: 400;
+}
+
+/*************contact page*********************/
+
+.contact-page{
+  margin-top: 40px;
+  padding: 10px 30px;
+}
+
+.div-contact{
+  padding-top: 50px!important;
+  color: #fff;
+}
+
+.big-text{
+  font-size: 20px;
+  padding: 20px 10px;
+}
+
+.hr-white{
+  border-top: 1px solid #fff;
 }
