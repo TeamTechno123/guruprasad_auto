@@ -56,22 +56,22 @@
                 </div>
                 <div class="col-md-3 text-center">
                     <i class="fas fa-globe f-50 c-orange "></i>
-                    <p class="count" >10 <sup>+</sup>  </p>
+                    <p class="" ><span class="count">10 </span> <sup>+</sup>  </p>
                     <p class="count-text">Years of Legacy</p>
                 </div>
                 <div class="col-md-3 text-center">
                     <i class="fas fa-globe f-50 c-orange "></i>
-                    <p class="count" >10 <sup>+</sup>  </p>
+                    <p class="" ><span class="count">10 </span> <sup>+</sup>  </p>
                     <p class="count-text">Years of Legacy</p>
                 </div>
                 <div class="col-md-3 text-center">
                     <i class="fas fa-globe f-50 c-orange "></i>
-                    <p class="count" >10 <sup>+</sup>  </p>
+                    <p class="" ><span class="count">10 </span> <sup>+</sup>  </p>
                     <p class="count-text">Years of Legacy</p>
                 </div>
                 <div class="col-md-3 text-center">
                     <i class="fas fa-globe f-50 c-orange "></i>
-                    <p class="count" >10 <sup>+</sup>  </p>
+                    <p class="" ><span class="count">10 </span> <sup>+</sup>  </p>
                     <p class="count-text">Years of Legacy</p>
                 </div>
               </div>
